@@ -22,5 +22,6 @@ public class Assignment13_a extends Parent13{
 	}	
 	public static void main(String[] args) {
 		Assignment13_a g = new Assignment13_a();
+		
 	}
 }
